@@ -1,2 +1,2 @@
 # spring-boot-mail
-由mail系统引发的springboot学习案例
+[邮件api demo](https://github.com/xoxocn/spring-boot-mail/tree/master/spring-boot-mail-monomer)
